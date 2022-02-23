@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-website",
+  "version": "1.0.0",
+  "description": "e-commerce-website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archanasn2017/e-commerce-website.git"
+  },
+  "author": "Archana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archanasn2017/e-commerce-website/issues"
+  },
+  "homepage": "https://github.com/archanasn2017/e-commerce-website#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express.js": "^1.0.0",
+    "firebase-admin": "^10.0.2",
+    "nodemon": "^2.0.15"
+  }
+}
